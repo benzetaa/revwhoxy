@@ -21,7 +21,7 @@ mv .env.example .env
 
 #### API KEY
 
-Edit the API keys in the `.env` file for better performance. Get your API at [Whoaxy](https://www.whoxy.com/account/api.php)
+Edit the API keys in the `.env` file for better performance. Get your API at [Whoxy](https://www.whoxy.com/account/api.php)
 
 
 ```sh
